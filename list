@@ -10,3 +10,5 @@
 ::      doh.dns.apple.com
 0.0.0.0 doh-dns-apple-com.v.aaplimg.com
 ::      doh-dns-apple-com.v.aaplimg.com
+0.0.0.0 canary.mask.apple-dns.net
+::      canary.mask.apple-dns.net
