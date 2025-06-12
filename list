@@ -4,3 +4,9 @@
 ::      mask.apple-dns.net
 0.0.0.0 apple-relay.cloudflare.com
 ::       apple-relay.cloudflare.com
+0.0.0.0 mask.apple-dns.net
+::      mask.apple-dns.net
+0.0.0.0 doh.dns.apple.com
+::      doh.dns.apple.com
+0.0.0.0 doh-dns-apple-com.v.aaplimg.com
+::      doh-dns-apple-com.v.aaplimg.com
